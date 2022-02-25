@@ -23,6 +23,9 @@ A primeira linha deve conter a cadeia testada e a segunda linha deve conter a re
 do simulador: “S” se a cadeia puder ser gerada pela gramática, ou “N” se a cadeia não
 puder ser gerada pela gramática. 
 
+Neste problema o símbolo “λ” que representa o vazio nas produções será substituído pelo 2
+símbolo “#”
+
 Exemplo:
 Entrada 
 SA
